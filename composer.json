@@ -14,5 +14,8 @@
     ],
     "require-dev": {
         "filp/whoops": "^2.15"
+    },
+    "require": {
+        "monolog/monolog": "^3.5"
     }
 }
